@@ -8,13 +8,14 @@ body {
   font-weight: 900;
 }
 .div1 {
-  width: 45%;
-  margin-top: 3%;
-  padding: 5%;
+  width: 75%;
+  margin-top: 2%;
+  padding: 6%;
   background-image: url(exp-bg.png);
   background-repeat: no-repeat;
   background-position-x: 20px;
   background-position-y: -90px;
+  height: 90%;
 }
 .two-dev {
   display: flex;
@@ -34,7 +35,9 @@ body {
   border-radius: 5%;
   color: white;
   font-weight: 900;
-  margin-left: 18%;
+  text-align: left;
+
+  margin-top: 14%;
 }
 .FB-profile:hover {
   color: rgb(10, 25, 242);
